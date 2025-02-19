@@ -59,11 +59,11 @@ To facilitate stakeholder decision-making, we will create the following **intera
 ---
 
 ## **6. Expected Business Impact**
-By implementing this data analysis, stakeholders can expect:
-✅ **Revenue Growth**: Optimize pricing and maximize room bookings.
-✅ **Cost Reduction**: Streamline operations and eliminate inefficiencies.
-✅ **Enhanced Customer Experience**: Personalized services and improved guest satisfaction.
-✅ **Data-Driven Expansion**: Identify new market opportunities based on trends.
+By implementing this data analysis, stakeholders can expect: 
+✅ **Revenue Growth**: Optimize pricing and maximize room bookings. 
+✅ **Cost Reduction**: Streamline operations and eliminate inefficiencies. 
+✅ **Enhanced Customer Experience**: Personalized services and improved guest satisfaction. 
+✅ **Data-Driven Expansion**: Identify new market opportunities based on trends. 
 
 ---
 
