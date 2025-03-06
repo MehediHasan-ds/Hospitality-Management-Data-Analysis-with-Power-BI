@@ -50,7 +50,11 @@ The analysis will be based on the following datasets:
 ---
 ## **5. Here are some of the sample dashboards done so far**
 ![Executive Summary Dashboard](images\Executive Summary.png)
+
+---
+
 -Check the Live Dashboard ![Here](https://app.powerbi.com/view?r=eyJrIjoiMDUzMmYyNmYtZWU4Ny00YzJjLWE5NDAtOGJkZWIxMjBiNGMxIiwidCI6ImY5YWU1ZTMxLTQyMzYtNGZmNi05NWMwLTEyMzUxNDhmMTExMSIsImMiOjEwfQ%3D%3D)
+
 ---
 
 ## **5. Power BI Dashboard Deliverables**
