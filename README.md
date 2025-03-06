@@ -48,6 +48,10 @@ The analysis will be based on the following datasets:
 - What new hospitality trends (eco-friendly hotels, digital services) should we invest in?
 
 ---
+## **5. Here are some of the sample dashboards done so far**
+![Executive Summary Dashboard](images\Executive Summary.png)
+-Check the Live Dashboard ![Here](https://app.powerbi.com/view?r=eyJrIjoiMDUzMmYyNmYtZWU4Ny00YzJjLWE5NDAtOGJkZWIxMjBiNGMxIiwidCI6ImY5YWU1ZTMxLTQyMzYtNGZmNi05NWMwLTEyMzUxNDhmMTExMSIsImMiOjEwfQ%3D%3D)
+---
 
 ## **5. Power BI Dashboard Deliverables**
 To facilitate stakeholder decision-making, we will create the following **interactive dashboards** in Power BI:
@@ -59,10 +63,10 @@ To facilitate stakeholder decision-making, we will create the following **intera
 ---
 
 ## **6. Expected Business Impact**
-By implementing this data analysis, stakeholders can expect: 
-✅ **Revenue Growth**: Optimize pricing and maximize room bookings. 
-✅ **Cost Reduction**: Streamline operations and eliminate inefficiencies. 
-✅ **Enhanced Customer Experience**: Personalized services and improved guest satisfaction. 
+By implementing this data analysis, stakeholders can expect:  
+✅ **Revenue Growth**: Optimize pricing and maximize room bookings.   
+✅ **Cost Reduction**: Streamline operations and eliminate inefficiencies.   
+✅ **Enhanced Customer Experience**: Personalized services and improved guest satisfaction.   
 ✅ **Data-Driven Expansion**: Identify new market opportunities based on trends. 
 
 ---
