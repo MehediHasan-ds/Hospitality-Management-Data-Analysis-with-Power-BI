@@ -49,7 +49,7 @@ The analysis will be based on the following datasets:
 
 ---
 ## **5. Here are some of the sample dashboards done so far**
-![Executive Summary Dashboard](images\Executive Summary.png)
+![Executive Summary Dashboard](./images/Executive Summary.png)
 
 ---
 
