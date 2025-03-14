@@ -1,9 +1,9 @@
 # **Hospitality Management Data Analysis Report Using Power BI**
 
-1. [Executive Summary] (# Executive Summary)
-2. [Objectives] (# Objectives)
-3. [Data Sources] (# Data Sources)
-4. [Dashboard Screenshots and Live link] (# Dashboard Screenshots and Live link)
+1. [Executive Summary] (#executive-summary)
+2. [Objectives] (#objectives)
+3. [Data Sources] (#data-sources)
+4. [Dashboard Screenshots and Live link] (#dashboard-screenshots-and-live-link)
 5. [Key Performance Metrics] (# Key Performance Metrics)
 6. [Weekly Performance Breakdown (Weekday vs. Weekend)] (# Weekly Performance Breakdown (Weekday vs. Weekend))
 7. [Revenue Breakdown by Category] (# Revenue Breakdown by Category)
