@@ -64,6 +64,8 @@ The analysis is based on the following datasets:
 
 Check the Live Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiZmUyMzg4YmEtNDQ1OC00ZmM0LTllNWItODg1Yzc4Y2NlMDBmIiwidCI6ImY5YWU1ZTMxLTQyMzYtNGZmNi05NWMwLTEyMzUxNDhmMTExMSIsImMiOjEwfQ%3D%3D)
 
+[Back to Top](#hospitality-management-data-analysis-report-using-power-bi)
+
 ---
 
 ## Key Performance Metrics
@@ -80,6 +82,8 @@ The dashboard highlights critical **hospitality KPIs**, including:
 - Tracks week-over-week trends to **identify revenue growth or decline**.
 - Helps in **identifying operational inefficiencies and revenue leakages**.
 
+[Back to Top](#hospitality-management-data-analysis-report-using-power-bi)
+
 ---
 
 ## Weekly Performance Breakdown (Weekday vs. Weekend)
@@ -92,6 +96,8 @@ The dashboard highlights critical **hospitality KPIs**, including:
 - **Weekend performance is better than weekdays** → Suggests potential for **premium pricing strategies on weekends**.
 - **Lower weekday occupancy** → Opportunities for corporate bookings, promotions, or discounts.
 
+[Back to Top](#hospitality-management-data-analysis-report-using-power-bi)
+
 ---
 
 ## Revenue Breakdown by Category
@@ -102,6 +108,8 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 - **Business travelers contribute more revenue than luxury travelers**.
 - Suggests **targeted pricing strategies and marketing campaigns for business travelers**.
+
+[Back to Top](#hospitality-management-data-analysis-report-using-power-bi)
 
 ---
 
@@ -115,6 +123,8 @@ The dashboard highlights critical **hospitality KPIs**, including:
 - **Sharp occupancy fluctuations** suggest periods of cancellations or low bookings.
 - Helps **align pricing strategies with demand trends**.
 
+[Back to Top](#hospitality-management-data-analysis-report-using-power-bi)
+
 ---
 
 ## Customer Ratings by Booking Platform
@@ -125,6 +135,8 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 - Ratings are **consistent across platforms**, indicating **no platform-specific service quality issues**.
 - **3.6 average rating is relatively low** → Indicates areas for **customer service improvement**.
+
+[Back to Top](#hospitality-management-data-analysis-report-using-power-bi)
 
 ---
 
@@ -140,6 +152,8 @@ The dashboard highlights critical **hospitality KPIs**, including:
 - **Presidential rooms have the lowest bookings** → Indicates possible issues like high pricing or low demand.
 - **Bangalore has lower bookings compared to Mumbai & Hyderabad** → Indicates a need to improve offerings in that market.
 
+[Back to Top](#hospitality-management-data-analysis-report-using-power-bi)
+
 ---
 
 ## Realization & ADR by Platform
@@ -152,6 +166,8 @@ The dashboard highlights critical **hospitality KPIs**, including:
 - Helps **determine which platforms drive the most revenue-efficient bookings**.
 - Supports **channel optimization by focusing on high-performing platforms**.
 
+[Back to Top](#hospitality-management-data-analysis-report-using-power-bi)
+
 ---
 
 ## Revenue Lost from Cancellations Analysis
@@ -162,6 +178,8 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 - Reveals which room classes suffer the most from cancellations.
 - Helps in planning cancellation policies, discounts, or targeted campaigns for specific room categories.
+
+[Back to Top](#hospitality-management-data-analysis-report-using-power-bi)
 
 ---
 
@@ -175,6 +193,8 @@ The dashboard highlights critical **hospitality KPIs**, including:
 - Helps in dynamic pricing strategies.
 - Suggests whether certain room types should have different pricing strategies for weekdays vs. weekends.
 
+[Back to Top](#hospitality-management-data-analysis-report-using-power-bi)
+
 ---
 
 ## Weekly Occupancy Utilization & Successful Bookings
@@ -187,6 +207,8 @@ The dashboard highlights critical **hospitality KPIs**, including:
 - Helps in **seasonal demand forecasting**.
 - Identifies peak and off-peak booking weeks.
 - Supports strategic decision-making for promotions and discounts.
+
+[Back to Top](#hospitality-management-data-analysis-report-using-power-bi)
 
 ---
 
@@ -206,10 +228,14 @@ The dashboard highlights critical **hospitality KPIs**, including:
 - **Optimize Booking Channels** – Focus on high-performing platforms like Journey & LogTrip.
 - **Expand Market Focus** – Improve marketing in low-performing cities like Delhi & Bangalore.
 
+[Back to Top](#hospitality-management-data-analysis-report-using-power-bi)
+
 ---
 
 ## Conclusion
 
 This analysis provides a comprehensive understanding of the hospitality business, highlighting key areas for improvement and growth. By leveraging Power BI's interactive dashboards and advanced analytics, stakeholders can make data-driven decisions to optimize operations, enhance customer satisfaction, and drive revenue growth.
+
+[Back to Top](#hospitality-management-data-analysis-report-using-power-bi)
 
 ---
