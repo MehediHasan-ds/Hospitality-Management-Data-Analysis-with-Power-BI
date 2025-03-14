@@ -1,13 +1,30 @@
 # **Hospitality Management Data Analysis Report Using Power BI**
 
+1. [Executive Summary] (## Executive Summary)
+2. [Objectives] (## Objectives)
+3. [Data Sources] (## Data Sources)
+4. [Dashboard Screenshots and Live link] (## Dashboard Screenshots and Live link)
+5. [Key Performance Metrics] (## Key Performance Metrics)
+6. [Weekly Performance Breakdown (Weekday vs. Weekend)] (## Weekly Performance Breakdown (Weekday vs. Weekend))
+7. [Revenue Breakdown by Category] (## Revenue Breakdown by Category)
+8. [RevPAR, ADR, and Occupancy Utilization Trends] (## RevPAR, ADR, and Occupancy Utilization Trends)
+9. [Customer Ratings by Booking Platform] (## Customer Ratings by Booking Platform)
+10. [Property and City-Wise Performance Breakdown] (## Property and City-Wise Performance Breakdown)
+11. [Realization & ADR by Platform] (## Realization & ADR by Platform)
+12. [Revenue Lost from Cancellations Analysis] (## Revenue Lost from Cancellations Analysis)
+13. [Average Daily Rate (ADR) by Room Type] (## Average Daily Rate (ADR) by Room Type)
+14. [Weekly Occupancy Utilization & Successful Bookings] (## Weekly Occupancy Utilization & Successful Bookings)
+15. [Insights & Recommendations] (## Insights & Recommendations)
+16. [Conclusion] (## Conclusion)
+
 ---
 
-## **1. Executive Summary**
+## Executive Summary
 This report provides a comprehensive analysis of the hospitality management data for a chain of hotels, leveraging Power BI to deliver actionable insights. The analysis focuses on **revenue optimization**, **occupancy management**, **customer satisfaction**, and **operational efficiency**. By examining key performance metrics, booking trends, and customer behavior, this report identifies opportunities for growth and improvement across properties and cities.
 
 ---
 
-## **2. Objectives**
+## Objectives
 The primary objectives of this analysis are:
 - **Maximize Revenue**: Identify high-performing properties and optimize pricing strategies.
 - **Improve Occupancy Rates**: Analyze underutilized rooms and reduce cancellations.
@@ -17,7 +34,7 @@ The primary objectives of this analysis are:
 
 ---
 
-## **3. Data Sources**
+## Data Sources
 The analysis is based on the following datasets:
 - **fact_bookings.csv**: Detailed booking transactions.
 - **fact_aggregated_bookings.csv**: Summarized booking trends.
@@ -26,8 +43,7 @@ The analysis is based on the following datasets:
 - **dim_hotels.csv**: Hotel-specific details.
 
 ---
-## **4. Here are some of the sample dashboards done so far**
-
+## Dashboard Screenshots and Live link
 ### **Executive Summary Dashboard**
 <img src="./images/Executive_Summary.png" alt="Executive Summary Dashboard" width="800" height="450" />
 
@@ -43,7 +59,7 @@ The analysis is based on the following datasets:
 
 ---
 
-## **5. Key Performance Metrics**
+## Key Performance Metrics
 The dashboard highlights critical **hospitality KPIs**, including:
 - **Occupancy Rate**
 - **Revenue**
@@ -58,7 +74,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## **6. Weekly Performance Breakdown (Weekday vs. Weekend)**
+## Weekly Performance Breakdown (Weekday vs. Weekend)
 ### **Key Insights**
 - **Weekend RevPAR** vs. **Weekday RevPAR**
 - **Weekend Occupancy Utilization** **Weekday**
@@ -69,7 +85,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## **7. Revenue Breakdown by Category**
+## Revenue Breakdown by Category
 ### **Key Insights**:
 - **Luxury Segment**
 - **Business Segment**
@@ -79,7 +95,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## **8. RevPAR, ADR, and Occupancy Utilization Trends**
+## RevPAR, ADR, and Occupancy Utilization Trends
 ### **Key Insights**:
 - Shows fluctuations in **RevPAR, ADR, and Occupancy Utilization across multiple weeks**.
 - Peaks and dips indicate **seasonal or event-driven variations**.
@@ -90,7 +106,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## **9. Customer Ratings by Booking Platform**
+## Customer Ratings by Booking Platform
 ### **Key Insights**:
 - **Average Rating Across All Platforms**: **3.6**
 - Platforms include **LogTrip, Journey, Direct Offline, Tripster, Others, MakeYourTrip**
@@ -100,7 +116,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## **10. Property and City-Wise Performance Breakdown**
+## Property and City-Wise Performance Breakdown
 ### **Key Insights**
 - **Total Bookings**
 - **Top Performing Cities by Bookings**
@@ -113,7 +129,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## **11. Realization & ADR by Platform**
+## Realization & ADR by Platform
 ### **Key Insights**:
 - Tracks **revenue realization % and ADR across different booking platforms**.
 - **Journey & LogTrip perform best in terms of realization.**
@@ -124,7 +140,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## **12. Revenue Lost from Cancellations Analysis**
+## Revenue Lost from Cancellations Analysis
 ### **Key Insights**:
 - **Revenue Lost Due to Cancellations**: 295.2M
 - **Presidential class has the highest occupancy but a lower cancellation rate**, whereas **Elite and Premium classes have higher cancellation losses**.
@@ -134,7 +150,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## **13. Average Daily Rate (ADR) by Room Type**
+## Average Daily Rate (ADR) by Room Type
 ### **Key Insights**:
 - **Weekdays**: Slightly lower ADR compared to weekends.
 - **Presidential rooms** have the highest ADR (23.4K on weekdays, 23.5K on weekends).
@@ -145,7 +161,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## **14. Weekly Occupancy Utilization & Successful Bookings**
+## Weekly Occupancy Utilization & Successful Bookings
 ### **Key Insights**:
 - The **bar chart** represents successful bookings across different weeks.
 - The **line chart** represents occupancy utilization % over the weeks.
@@ -157,7 +173,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## **15. Insights & Recommendations**
+## Insights & Recommendations
 ### **Key Insights**:
 - **Hyderabad**: Presidential room classes have higher cancellations and low occupancy due to low ratings. Dynamic pricing and improved services are recommended.
 - **Altiq Seasons & Altiq Grands**: Underperforming due to high cancellation rates. Strategies to reduce cancellations (e.g., promotions, stricter policies) are needed.
@@ -174,7 +190,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## **16. Conclusion**
+## 16. Conclusion
 This analysis provides a comprehensive understanding of the hospitality business, highlighting key areas for improvement and growth. By leveraging Power BI's interactive dashboards and advanced analytics, stakeholders can make data-driven decisions to optimize operations, enhance customer satisfaction, and drive revenue growth.
 
 ---
