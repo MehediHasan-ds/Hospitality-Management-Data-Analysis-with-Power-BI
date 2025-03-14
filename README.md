@@ -27,14 +27,20 @@ The analysis is based on the following datasets:
 
 ---
 ## **4. Here are some of the sample dashboards done so far**
-![Executive Summary Dashboard](./images/Executive_Summary.png)
-![Revenue & Pricing](./images/Revenue.png)
-![Occupancy & Capacity](./images/Occupancy.png)
+
+### **Executive Summary Dashboard**
+![Executive Summary Dashboard](./images/Executive_Summary.png){: width="800" height="450"}
+
+### **Revenue & Pricing Dashboard**
+![Revenue & Pricing](./images/Revenue.png){: width="800" height="450"}
+
+### **Occupancy & Capacity Dashboard**
+![Occupancy & Capacity](./images/Occupancy.png){: width="800" height="450"}
 
 
 ---
 
--Check the Live Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiMDUzMmYyNmYtZWU4Ny00YzJjLWE5NDAtOGJkZWIxMjBiNGMxIiwidCI6ImY5YWU1ZTMxLTQyMzYtNGZmNi05NWMwLTEyMzUxNDhmMTExMSIsImMiOjEwfQ%3D%3D)
+-Check the Live Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiZmUyMzg4YmEtNDQ1OC00ZmM0LTllNWItODg1Yzc4Y2NlMDBmIiwidCI6ImY5YWU1ZTMxLTQyMzYtNGZmNi05NWMwLTEyMzUxNDhmMTExMSIsImMiOjEwfQ%3D%3D)
 
 ---
 
