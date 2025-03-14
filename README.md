@@ -34,6 +34,8 @@ The primary objectives of this analysis are:
 - **Operational Efficiency**: Streamline resource allocation and staffing.
 - **Strategic Decision-Making**: Provide data-driven recommendations for future growth and expansion.
 
+[Back to Top](#hospitality-management-data-analysis-report-using-power-bi)
+
 ---
 
 ## Data Sources
