@@ -1,0 +1,111 @@
+How to create Dashboards for these segments so that, stakeholders may have business insights and take fast decisions by relating data/insights easily.
+
+---
+
+### **1. Revenue Optimization and Pricing Strategies**
+   - **Questions:**
+     D 2. Which cities have high occupancy but low revenue—indicating pricing potential?
+     D 5. How much additional revenue could we gain by reducing cancellations by 10%? 
+     D 7. What’s the RevPAR (Revenue Realized / Capacity) by property and room category?
+     D(Same results) 10. Overbooking Strategy: What’s the risk vs. reward of overbooking based on no-show patterns?
+     D 20. Upsell Potential: Are guests in lower-tier rooms/Higher tier rooms staying longer or spending more (revenue vs. length of stay)?
+     D 27. Simulate “what-if” scenarios (e.g., raising prices by 10%, reducing cancellations via stricter policies).
+     D 30. How much money are we losing to cancellations? Cancellation and No-Show Rates and their financial impact.
+   - **Purpose:** Help stakeholders optimize pricing, maximize revenue, and evaluate overbooking strategies.
+
+---
+
+### **2. Occupancy and Capacity Management**
+   - **Questions:**
+     9. Maintenance Planning: Are certain room categories underutilized due to downtime (e.g., inferred from capacity vs. bookings gaps)?
+     12. What’s the average capacity underutilization rate by room category and day_type? Are some room categories always full or empty?
+     22. Which properties see booking spikes on weekends tied to day_type? Highlight booking lead times by room_category type to optimize inventory planning.
+     31. Are there any hotels or room categories with consistently low occupancy rates, cancellation rates, ratings? Are there capacity constraints (e.g., rooms consistently overbooked or underutilized)? What’s the occupancy rate (successful bookings vs. capacity) by property, room category, and date?
+
+    32. in which day/season do the owner needs staffs greater than average number 
+
+   - **Purpose:** Identify underutilized resources, optimize capacity, and plan for maintenance or reallocation.
+
+---
+
+### **3. Customer Experience and Satisfaction**
+   - **Questions:**
+     8. Staffing Efficiency: Are occupancy peaks (e.g., weekends) straining resources, inferred from high bookings and low ratings?
+     11. Which properties have occupancy spikes correlating with lower ratings?
+     18. Guest Experience Breakdown: Are low ratings tied to specific issues (e.g., inferred from cancellations post-check-in)?
+     21. What’s the correlation between length of stay and ratings by property?
+     33. What is the average rating given by customers for each hotel and room category? Are there any correlations between room category, booking platform, and ratings?
+   - **Purpose:** Improve customer satisfaction by addressing pain points and optimizing staffing during peak times.
+
+---
+
+### **4. Booking Trends and Platform Performance**
+   - **Questions:**
+     3. What’s the growth rate in bookings by category (Luxury vs. Business) over the three months?
+     14. Campaign ROI: Which booking platforms yield higher ratings and repeat bookings, highest revenue (if repeat data were trackable)?
+     15. Competitor Threat: Are low ratings on certain platforms signaling lost market share?
+     17. Which platforms have the highest ratings-to-revenue ratio?
+     32. What are the booking trends over time (daily, weekly, monthly)?
+   - **Purpose:** Understand booking trends, evaluate platform performance, and allocate marketing resources effectively.
+
+---
+
+### **5. Cancellation and Refund Policy Optimization**
+   - **Questions:**
+     4. Refund Optimization: Are the 40% cancellation deductions optimal, or should they adjust refund policies?
+     5. How much additional revenue could we gain by reducing cancellations by 10%?
+     10. Overbooking Strategy: What’s the risk vs. reward of overbooking based on no-show patterns?
+     30. How much money are we losing to cancellations? Cancellation and No-Show Rates and their financial impact.
+     31. Are there any patterns in cancellations (e.g., specific booking platforms, room categories)?
+   - **Purpose:** Optimize cancellation policies, reduce revenue loss, and manage overbooking risks.
+
+---
+
+### **6. Geographic and Seasonal Insights**
+   - **Questions:**
+     1. Which cities or hotel categories (Luxury vs. Business) show untapped potential for new properties? Predictive insights (e.g., forecasting August based on trends).
+     19. Local Trends: How do city-specific events (e.g., holidays in May-July) affect bookings? Are there city-specific trends that suggest market opportunities or risks?
+     28. Geographic/Seasonal Trends: Include predictive trends and portfolio expansion insights.
+     35. Geographic and Seasonal Trends: How does performance vary by city and hotel category (Luxury vs. Business)? Are there any seasonal trends in bookings, revenue, or occupancy?
+   - **Purpose:** Identify growth opportunities, plan for seasonal fluctuations, and optimize geographic expansion.
+
+---
+
+### **7. Customer Segmentation and Targeting**
+   - **Questions:**
+     6. Upsell Opportunities: Are guests in lower room classes (e.g., Standard) generating higher revenue via add-ons (inferred from revenue vs. room class)?
+     13. Customer Segmentation: Can we infer guest types (e.g., families vs. solo travelers) from no_guests and room class preferences?
+     16. What’s the average no_guests per booking by room class and city—indicating target segments?
+     20. Upsell Potential: Are guests in lower-tier rooms/Higher tier rooms staying longer or spending more (revenue vs. length of stay)?
+   - **Purpose:** Segment customers, identify upsell opportunities, and tailor marketing strategies.
+
+---
+
+### **8. Forecasting and Predictive Insights**
+   - **Questions:**
+     1. Which cities or hotel categories (Luxury vs. Business) show untapped potential for new properties? Predictive insights (e.g., forecasting August based on trends).
+     23. Forecasts for occupancy, revenue, and cancellations beyond July based on May-June trends.
+     24. Early warnings for underperforming properties or high cancellation risks.
+     28. Geographic/Seasonal Trends: Include predictive trends and portfolio expansion insights.
+   - **Purpose:** Enable data-driven forecasting and proactive decision-making.
+
+---
+
+### **9. Competitive Benchmarking and Performance Tracking**
+   - **Questions:**
+     26. Compare properties to internal “best in class” (e.g., top hotel’s RevPAR).
+     29. Competitive benchmarking (how do our properties perform against each other?).
+     34. How do room categories perform across different hotels and cities? Are there any opportunities to reallocate resources (e.g., converting underperforming rooms to a different category)?
+   - **Purpose:** Benchmark performance, identify top performers, and reallocate resources for better outcomes.
+
+---
+
+### **10. Strategic Goal Setting and Progress Tracking**
+   - **Questions:**
+     25. Set targets (e.g., 80% occupancy, <10% cancellation rate) and track progress.
+     27. Simulate “what-if” scenarios (e.g., raising prices by 10%, reducing cancellations via stricter policies).
+   - **Purpose:** Set measurable goals, track progress, and evaluate the impact of strategic changes.
+
+---
+
+
