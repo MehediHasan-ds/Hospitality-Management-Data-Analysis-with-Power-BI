@@ -10,11 +10,11 @@
 8. [RevPAR, ADR, and Occupancy Utilization Trends](#revpar-adr-and-occupancy-utilization-trends)
 9. [Customer Ratings by Booking Platform](#customer-ratings-by-booking-platform)
 10. [Property and City-Wise Performance Breakdown](#property-and-city-wise-performance-breakdown)
-11. [Realization & ADR by Platform](#realization--adr-by-platform)
+11. [Realization & ADR by Platform](#realization-adr-by-platform)
 12. [Revenue Lost from Cancellations Analysis](#revenue-lost-from-cancellations-analysis)
 13. [Average Daily Rate (ADR) by Room Type](#average-daily-rate-adr-by-room-type)
-14. [Weekly Occupancy Utilization & Successful Bookings](#weekly-occupancy-utilization--successful-bookings)
-15. [Insights & Recommendations](#insights--recommendations)
+14. [Weekly Occupancy Utilization & Successful Bookings](#weekly-occupancy-utilization-successful-bookings)
+15. [Insights & Recommendations](#insights-recommendations)
 16. [Conclusion](#conclusion)
 
 ---
@@ -130,7 +130,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## Realization & ADR by Platform {#realization--adr-by-platform}
+## Realization & ADR by Platform {#realization-adr-by-platform}
 ### **Key Insights**:
 - Tracks **revenue realization % and ADR across different booking platforms**.
 - **Journey & LogTrip perform best in terms of realization.**
@@ -162,7 +162,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## Weekly Occupancy Utilization & Successful Bookings {#weekly-occupancy-utilization--successful-bookings}
+## Weekly Occupancy Utilization & Successful Bookings {#weekly-occupancy-utilization-successful-bookings}
 ### **Key Insights**:
 - The **bar chart** represents successful bookings across different weeks.
 - The **line chart** represents occupancy utilization % over the weeks.
@@ -174,7 +174,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## Insights & Recommendations {#insights--recommendations}
+## Insights & Recommendations {#insights-recommendations}
 ### **Key Insights**:
 - **Hyderabad**: Presidential room classes have higher cancellations and low occupancy due to low ratings. Dynamic pricing and improved services are recommended.
 - **Altiq Seasons & Altiq Grands**: Underperforming due to high cancellation rates. Strategies to reduce cancellations (e.g., promotions, stricter policies) are needed.
