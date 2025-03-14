@@ -10,11 +10,11 @@
 8. [RevPAR, ADR, and Occupancy Utilization Trends](#revpar-adr-and-occupancy-utilization-trends)
 9. [Customer Ratings by Booking Platform](#customer-ratings-by-booking-platform)
 10. [Property and City-Wise Performance Breakdown](#property-and-city-wise-performance-breakdown)
-11. [Realization & ADR by Platform](#realization-adr-by-platform)
+11. [Realization and ADR by Platform](#realization-and-adr-by-platform)
 12. [Revenue Lost from Cancellations Analysis](#revenue-lost-from-cancellations-analysis)
 13. [Average Daily Rate (ADR) by Room Type](#average-daily-rate-adr-by-room-type)
-14. [Weekly Occupancy Utilization & Successful Bookings](#weekly-occupancy-utilization-successful-bookings)
-15. [Insights & Recommendations](#insights-recommendations)
+14. [Weekly Occupancy Utilization and Successful Bookings](#weekly-occupancy-utilization-and-successful-bookings)
+15. [Insights and Recommendations](#insights-and-recommendations)
 16. [Conclusion](#conclusion)
 
 ---
@@ -156,7 +156,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## Realization & ADR by Platform
+## Realization and ADR by Platform
 
 ### **Key Insights**:
 - Tracks **revenue realization % and ADR across different booking platforms**.
@@ -197,7 +197,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## Weekly Occupancy Utilization & Successful Bookings
+## Weekly Occupancy Utilization and Successful Bookings
 
 ### **Key Insights**:
 - The **bar chart** represents successful bookings across different weeks.
@@ -212,7 +212,7 @@ The dashboard highlights critical **hospitality KPIs**, including:
 
 ---
 
-## Insights & Recommendations
+## Insights and Recommendations
 
 ### **Key Insights**:
 - **Hyderabad**: Presidential room classes have higher cancellations and low occupancy due to low ratings. Dynamic pricing and improved services are recommended.
