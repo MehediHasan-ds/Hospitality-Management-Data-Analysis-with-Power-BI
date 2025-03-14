@@ -29,14 +29,13 @@ The analysis is based on the following datasets:
 ## **4. Here are some of the sample dashboards done so far**
 
 ### **Executive Summary Dashboard**
-![Executive Summary Dashboard](./images/Executive_Summary.png){: width="800" height="450"}
+<img src="./images/Executive_Summary.png" alt="Executive Summary Dashboard" width="800" height="450" />
 
 ### **Revenue & Pricing Dashboard**
-![Revenue & Pricing](./images/Revenue.png){: width="800" height="450"}
+<img src="./images/Revenue.png" alt="Revenue & Pricing Dashboard" width="800" height="450" />
 
 ### **Occupancy & Capacity Dashboard**
-![Occupancy & Capacity](./images/Occupancy.png){: width="800" height="450"}
-
+<img src="./images/Occupancy.png" alt="Occupancy & Capacity Dashboard" width="800" height="450" />
 
 ---
 
