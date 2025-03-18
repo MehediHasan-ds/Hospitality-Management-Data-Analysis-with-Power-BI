@@ -1,4 +1,4 @@
-# **Hospitality Management Data Analysis Report Using Power BI**
+# **Hospitality Management Data Analysis Using Power BI**
 
 1. [Executive Summary](#executive-summary)
 2. [Objectives](#objectives)
