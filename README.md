@@ -52,17 +52,17 @@ The analysis is based on the following datasets:
 ## Dashboard Screenshots and Live Link
 
 ### **Executive Summary Dashboard**
-<img src="./images/Executive_Summary.png" alt="Executive Summary Dashboard" width="800" height="450" />
+<img src="./images/Aesthetic_Summary_page.png" alt="Executive Summary Dashboard" width="800" height="450" />
 
 ### **Revenue & Pricing Dashboard**
-<img src="./images/Revenue.png" alt="Revenue & Pricing Dashboard" width="800" height="450" />
+<img src="./images/Aesthetic_Revenue.png" alt="Revenue & Pricing Dashboard" width="800" height="450" />
 
 ### **Occupancy & Capacity Dashboard**
-<img src="./images/Occupancy.png" alt="Occupancy & Capacity Dashboard" width="800" height="450" />
+<img src="./images/Aesthetic_Occupancy.png" alt="Occupancy & Capacity Dashboard" width="800" height="450" />
 
 ---
 
-Check the Live Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiZmUyMzg4YmEtNDQ1OC00ZmM0LTllNWItODg1Yzc4Y2NlMDBmIiwidCI6ImY5YWU1ZTMxLTQyMzYtNGZmNi05NWMwLTEyMzUxNDhmMTExMSIsImMiOjEwfQ%3D%3D)
+Check the Live Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiMDVjOTU2ZDgtMzhiZi00OTcwLTk5NjQtMzUwZjA3MTkwZmQyIiwidCI6ImY5YWU1ZTMxLTQyMzYtNGZmNi05NWMwLTEyMzUxNDhmMTExMSIsImMiOjEwfQ%3D%3D)
 
 [Back to Top](#hospitality-management-data-analysis-report-using-power-bi)
 
